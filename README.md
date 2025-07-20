@@ -40,6 +40,6 @@ Allows wallet connection, token swaps between Token A and Token B, and dynamic p
 
 ## 🧠 Author
 
-Developed by [@3lisa](https://github.com/3lisa) as part of the ETH Kipu course.
+Developed by [@3lisa]([https://github.com/3lisa](https://github.com/mariaelisaaraya)) as part of the ETH Kipu course.
 
 
