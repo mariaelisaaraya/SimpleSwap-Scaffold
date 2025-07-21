@@ -36,10 +36,10 @@ Allows wallet connection, token swaps between Token A and Token B, and dynamic p
 
 <img width="437" height="749" alt="5swap" src="https://github.com/user-attachments/assets/090aabf4-c47a-4738-aa23-061805d97173" />
 
+---
 
-
-## 🧠 Author
-
-Developed by [@3lisa](https://github.com/mariaelisaaraya) as part of the ETH Kipu course.
-
+## 📇 Project Information
+**Student**: Elisa Araya  
+**Course**: ETH Kipu - Ethereum Developer Pack  
+**Submission**: Final Assignment - Module 4
 
